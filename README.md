@@ -1,6 +1,6 @@
 Hi, I’m 曜槿/komusama, undergraduate from HUST, majoring in AI.
 
-Currnently working on time series forecasting, LLM, Bayes Optimization. Interested in CV, ML.
+Currnently working on time series forecasting, generation model, LLM, Bayes Optimization. Interested in CV, ML.
 
 Internship at Shanghai Artificial Intelligence Lab.
 
