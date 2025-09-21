@@ -1,10 +1,8 @@
-Hi, I’m 曜槿/komusama, undergraduate from HUST, majoring in AI.
+Hi, I’m 曜槿/komusama, majoring in AI, focus on AI4Science.
 
-Currnently working on time series forecasting, generation model, LLM, Bayes Optimization. Interested in CV, ML.
+HUST AIA B.E.->USTC+pjlab Ph.D. 25fall. Internship at Shanghai Artificial Intelligence Lab.
 
-Internship at Shanghai Artificial Intelligence Lab.
-
-USTC+pjlab Ph.D. 25fall.
+Currnently working on generation model, LLM, Bayes Optimization and their application in physics and chemistry.
 
 Reach me:
 
